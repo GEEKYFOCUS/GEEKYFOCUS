@@ -1,5 +1,6 @@
 <!-- Typewriter Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00C7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=👋+Hi%2C+I'm+Abdulhakeem+Gidado!;I+love+building+AI-powered+apps+and+automation.;I+design+scalable+frontend+%26+backend+systems.;Here+is+what+I'm+working+on+currently...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00C7FF&center=true&vCenter=true&repeat=true&width=800&lines=👋+Hi%2C+I'm+Abdulhakeem+Gidado!;I+love+building+AI-powered+apps+and+automation.;I+design+scalable+frontend+%26+backend+systems.;Here+is+what+I'm+working+on+currently...)](https://git.io/typing-svg)
+
 
 ---
 
@@ -25,7 +26,7 @@ AI agents that **close deals while you sleep** and change the way we approach **
 ### 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulhakeem-gidado-is-open-for-hiring/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Focus_script)
-
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourwebsite.com) -->
 ---
 
 ### ⚡ Fun Fact
